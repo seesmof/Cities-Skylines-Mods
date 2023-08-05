@@ -24,3 +24,6 @@
 - Network Anarchy
 - Line Tool
 - Tree Control
+- Auto Line Color
+- Forest Brush
+- Unified UI
