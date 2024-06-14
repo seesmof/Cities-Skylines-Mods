@@ -7,12 +7,15 @@ Contains some assets and mods for a city builder game called Cities: Skylines fo
 **Repository Folder Structure**
 
 ```
-Mods/
-└── game mods...
-Assets/
+Mods
+└── game mod files...
+Assets
 └── game asset files...
-Unlocking DLCs/
-└── files to help you unlock all downloadable content...
-Images/
-└── image files for the repository...
+Unlocking DLCs
+├── Automate.py - automates the process
+├── Instruction.md - instructions on how to do it manually
+├── File.dll - new file to be added
+└── Original_File_Backup.dll - original file saved as backup
+Images
+└── Cities Skylines Mods Cover.jpeg - cover image
 ```
