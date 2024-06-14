@@ -49,10 +49,10 @@ with console.status("[yellow]Renaming the file...[/yellow]"):
         File_Name: str = Old_File_Name.replace(".dll", "")
         os.rename(
             os.path.join(Plugins_Folder, Old_File_Name),
-            os.path.join(Plugins_Folder, File_Name + "_old.dll"),
+            os.path.join(Plugins_Folder, File_Name + "_o.dll"),
         )
         console.print(
-            f"Renamed {Old_File_Name} to {File_Name}_old.dll", style="bold green"
+            f"Renamed {Old_File_Name} to {File_Name}_o.dll", style="bold green"
         )
     except:
         console.print(f"Failed to rename {Old_File_Name}", style="bold red")
