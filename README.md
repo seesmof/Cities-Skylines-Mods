@@ -1,25 +1,18 @@
-<a name="readme-top"></a>
-
 <div align="center">
-  <a href="https://github.com/seesmof/">
-    <img src="./public/logo.png" alt="Logo" height="80">
-  </a>
-
-<h1 align="center">Cities Skylines Mods</h1>
+  <img src="./Images/Cities Skylines Mods Cover.png" alt="Cities Skylines Mods Cover Image" width="477"/>
 </div>
 
-## Table of contents
+Contains some assets and mods for a city builder game called Cities: Skylines for the Glory of Jesus Christ our Holy Lord GOD Almighty ✝️🕊️
 
-- [Table of contents](#table-of-contents)
-- [About](#about)
-- [License](#license)
+**Repository Folder Structure**
 
-## About
-
-This repository is hosting all of the mods and assets for Cities Skylines. The ones that I enjoy and play with, at least. Those are compatible with the latest version of the game and I will probably be adding the ones for Cities Skylines 2 as I start playing it once it is released.
-
-## License
-
-This project is licensed under the [MIT License](./LICENSE).
-
-<p align="right"><a href="#readme-top"><strong>Back to top</strong></a></p>
+```
+Mods/
+└── game mods...
+Assets/
+└── game asset files...
+Unlocking DLCs/
+└── files to help you unlock all downloadable content...
+Images/
+└── image files for the repository...
+```
