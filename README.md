@@ -7,15 +7,22 @@ Contains some assets and mods for a city builder game called Cities: Skylines fo
 **Repository Folder Structure**
 
 ```
-Mods
-└── game mod files...
-Assets
-└── game asset files...
-Unlocking DLCs
-├── Automate.py - automates the process
-├── Instruction.md - instructions on how to do it manually
-├── File.dll - new file to be added
-└── Original_File_Backup.dll - original file saved as backup
-Images
-└── Cities Skylines Mods Cover.jpeg - cover image
+Mods/
+│  game mod files
+Assets/
+│  game asset files
+Unlocking DLCs/
+│  contains files and instructions to unlock all the DLCs
+├─ Automate.py - automates the process
+├─ Instruction.md - instructions on how to do it manually
+├─ File.dll - new file to be added
+└─ Original_File_Backup.dll - original file saved as backup
+Adding Ukrainian/
+│  contains files and instructions to add Ukrainian interface to the game
+├─ Automate.py - automates the process
+├─ Instruction.md - instructions on how to do it manually
+└─ ua.locale - localization file
+Images/
+│  image files for repository
+└─ Cities Skylines Mods Cover.jpeg - cover image
 ```
