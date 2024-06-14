@@ -9,8 +9,10 @@ Contains some assets and mods for a city builder game called Cities: Skylines fo
 ```
 Mods/
 │  game mod files
+└─ Open Default Path.py - opens default mods folder
 Assets/
 │  game asset files
+└─ Open Default Path.py - opens default assets folder 
 Unlocking DLCs/
 │  contains files and instructions to unlock all the DLCs
 ├─ Automate.py - automates the process
