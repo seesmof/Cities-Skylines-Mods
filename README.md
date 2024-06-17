@@ -13,6 +13,9 @@ Mods/
 Assets/
 │  game asset files
 └─ Open Default Path.py - opens default assets folder 
+Maps/
+│  game map files
+└─ Open Default Path.py - opens default maps folder
 Unlocking DLCs/
 │  contains files and instructions to unlock all the DLCs
 ├─ Automate.py - automates the process
